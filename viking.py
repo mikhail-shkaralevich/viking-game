@@ -1,8 +1,3 @@
-# How does a game work?
-# 1 checking player input (the even loop)
-# 2 use that information to place elements on the screen
-# repeat
-
 import pygame
 from sys import exit
 from random import randint
