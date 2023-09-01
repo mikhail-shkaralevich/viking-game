@@ -47,7 +47,7 @@ pygame.init()
 # create a display surface
 screen = pygame.display.set_mode((800, 400))
 # add caption
-pygame.display.set_caption("mario")
+pygame.display.set_caption("viking")
 
 clock = pygame.time.Clock()
 
