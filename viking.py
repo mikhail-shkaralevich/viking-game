@@ -3,11 +3,6 @@
 # 2 use that information to place elements on the screen
 # repeat
 
-# Why to use pygame?
-# 1. Pygame helps you draw images (and play sounds)
-# 2. Check for player input.
-# 3. Other gamedev tools like collisions, creating text, timers, etc.
-
 import pygame
 from sys import exit
 from random import randint
